@@ -1,2 +1,2 @@
-# projectCCT1114
-Files for CCT1114 Project
+# MMU Projects
+Files for MMU Projects
