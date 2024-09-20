@@ -1,7 +1,3 @@
-# Rune of Minigames
-An RPG involving minigames and a variety of challenges
-
-**Current Progress**
-- Text-based, planning to switch to a 2D GUI game
-- Switch to C# mayhaps
-- Char design, level design, more concepts, etc...
+# MMU Projects I did in Sem 1
+Includes files for CCT1114 anf CSP1114
+Note to self: Future projects code as its own repo
